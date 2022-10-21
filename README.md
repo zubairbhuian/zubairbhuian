@@ -70,7 +70,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/md-siam/github-readme-activity-graph"><img alt="Zubair Bhuian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=md-siam&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/md-siam/github-readme-activity-graph"><img alt="Zubair Bhuian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zubairbhuian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
