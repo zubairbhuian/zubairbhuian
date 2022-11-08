@@ -1,15 +1,15 @@
 <!-- <img align="right" src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" height="270"> </img> -->
-## Hi, I'm [Zubair Bhuian!](https://bhuians-portfolio.herokuapp.com/) 👋
+## Hola, I'm [Zubair Bhuian!](https://bhuians-portfolio.herokuapp.com/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubairbhuian&label=Views&color=blue&style=plastic" alt="zubairbhuian" /> </p>
 
 <h4 align="left">
-     I'm a Flutter and web developer from Bangladesh, having 2+ years of experience <br>
+    I'm a Flutter developer from Bangladesh, having 1.5+ years of cross-platform app architect and development experience. <br>
     ➮ I prefer MVC or MVP, for the folder & file pattern. <br>
-    ➮ In addition to that, I use Reverpod, GetX, or BLoC for app state management. <br>
+    ➮ In addition to that, I use Provider, GetX, or BLoC for app state management. <br>
     ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>
     ➮ Depending on the project requirement, I use `shared_preferences` or `hive` for local storage. <br>
-    ☞ Hire me for your next project: <a href = "mailto: zubairbhuian@gmail.com">zubairbhuian@gmail.com</a>
+    ☞ Hire me for your next project: <a href = "mailto: zubairbhuian@gmail.com">zubairbhuian@gmail.com</a> ☜
 <h4>
 
 ## 💫About Me :
@@ -33,6 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=zubairbhuian&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zubairbhuian&theme=flag-india&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairbhuian&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
@@ -82,4 +83,6 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+
 
