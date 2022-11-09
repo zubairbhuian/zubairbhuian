@@ -40,8 +40,8 @@
 ### ⚡ Github Stats:
 
 <p align="center">
-	<img width="48%" height='250' src="https://github-readme-stats.vercel.app/api?username=zubairbhuian&show_icons=true&hide_border=true&theme=tokyonight" alt="zubairbhuian's stats" />
-	<img width="48%" height='250' src="https://github-readme-stats.vercel.app/api/top-langs?username=zubairbhuian&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="zubairbhuian's stats"/>
+	<img width="48%" height='200' src="https://github-readme-stats.vercel.app/api?username=zubairbhuian&show_icons=true&hide_border=true&theme=tokyonight" alt="zubairbhuian's stats" />
+	<img width="48%" height='200' src="https://github-readme-stats.vercel.app/api/top-langs?username=zubairbhuian&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="zubairbhuian's stats"/>
 </p>   
 	
 	
