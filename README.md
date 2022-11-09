@@ -32,9 +32,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=zubairbhuian&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zubairbhuian&theme=flag-india&hide_border=true)<br/>
-<div width="100%">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairbhuian&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
-</div>
 
 
 
