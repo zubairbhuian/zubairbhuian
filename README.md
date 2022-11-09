@@ -40,21 +40,11 @@
 ### ⚡ Github Stats:
 
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=zubairbhuian&show_icons=true&hide_border=true&theme=tokyonight" alt="MehedilslamRipon's stats" />
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubairbhuian&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mahfuzurrah's stats"/>
+	<img width="48%" height='250' src="https://github-readme-stats.vercel.app/api?username=zubairbhuian&show_icons=true&hide_border=true&theme=tokyonight" alt="zubairbhuian's stats" />
+	<img width="48%" height='250' src="https://github-readme-stats.vercel.app/api/top-langs?username=zubairbhuian&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="zubairbhuian's stats"/>
 </p>   
-    
-    
-    
-    
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=zubairbhuian&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zubairbhuian&theme=flag-india&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zubairbhuian&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
-
-
-
-
+	
+	
 ## 📌 Pinned Repositories
 <p align="center">
     <a href="https://github.com/zubairbhuian/hospital">
