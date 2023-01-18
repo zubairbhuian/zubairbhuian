@@ -56,9 +56,6 @@
     <a href="https://github.com/zubairbhuian/hospital">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=hospital&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
-        <a href="https://github.com/zubairbhuian/filegallery_live">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=filegallery_live&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
         <a href="https://github.com/zubairbhuian/food_app">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=food_app&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
@@ -73,6 +70,9 @@
     </a>
     <a href="https://github.com/zubairbhuian/pwa">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=pwa&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
+    </a>
+    <a href="https://github.com/zubairbhuian/email-template">
+        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=email-template&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
     <a href="https://github.com/zubairbhuian/dgtv">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=dgtv&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
