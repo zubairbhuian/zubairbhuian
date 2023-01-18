@@ -57,14 +57,8 @@
         <a href="https://github.com/zubairbhuian/Creative-Pigeon">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=Creative-Pigeon&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
-        <a href="https://github.com/zubairbhuian/Heroku-portfolio">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=Heroku-portfolio&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
     <a href="https://github.com/zubairbhuian/pwa">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=pwa&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/zubairbhuian/email-template">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=filegallery_live&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
     <a href="https://github.com/zubairbhuian/dgtv">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=dgtv&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
