@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubairbhuian&label=Views&color=blue&style=plastic" alt="zubairbhuian" /> </p>
 
 <h4 align="left">
-    I'm a Flutter developer from Bangladesh, having 1.5+ years of cross-platform app architect and development experience. <br>
+    I'm a full stack developer from Bangladesh, having 1+ years of cross-platform app  and 3+ years of web application development experience . I have absolute knowledge of Flutter,Dart, HTML, CSS, bootstrap 5, tailwind CSS, React, jquery, JavaScript, Nodejs, express js, and Figma. I have broad experience in using Scss<br>
     ➮ I prefer MVC or MVP, for the folder & file pattern. <br>
     ➮ In addition to that, I use Provider, GetX, or BLoC for app state management. <br>
     ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>
@@ -22,7 +22,16 @@
 - 👨‍💻  : Few of my projects are available at **[My GitHub](https://github.com/zubairbhuian?tab=repositories)**
 - 📫  : How to reach me **[zubairbhuian@gmail.com]()**
 - ⚡ : Fun fact **[I love playing video games (PUBG)](https://www.pubgmobile.com/)**
+<h4>
+<img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
 
+- 🔭  : I’m currently working on an **E-Commerce** app
+- 🌱  : I’m currently learning **[BLoC](https://bloclibrary.dev/#/gettingstarted) & [Rive Animation](https://rive.app/)**
+- 👯  : I want to contribute as **[Flutter Developer]()**
+- 👨‍💻  : Few of my projects are available at **[My GitHub](https://github.com/zubairbhuian?tab=repositories)**
+- 📫  : How to reach me **[zubairbhuian@gmail.com]()**
+- ⚡ : Fun fact **[I love playing video games (PUBG)](https://www.pubgmobile.com/)**
+</h4>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zubairbhuian/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zubair-bhuian-23a025206/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://www.linkedin.com/in/zubair-bhuian-23a025206/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://bhuians-portfolio.herokuapp.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Zubair76573632) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]() 
@@ -47,6 +56,9 @@
     <a href="https://github.com/zubairbhuian/hospital">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=hospital&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
+        <a href="https://github.com/zubairbhuian/filegallery_live">
+        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=filegallery_live&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
+    </a>
         <a href="https://github.com/zubairbhuian/food_app">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=food_app&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
@@ -61,9 +73,6 @@
     </a>
     <a href="https://github.com/zubairbhuian/pwa">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=pwa&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
-    </a>
-    <a href="https://github.com/zubairbhuian/email-template">
-        <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=email-template&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
     </a>
     <a href="https://github.com/zubairbhuian/dgtv">
         <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zubairbhuian&repo=dgtv&title_color=5BCDEC&text_color=c9cacc&icon_color=4AB197&bg_color=0D1117&" />
