@@ -1,5 +1,5 @@
 <!-- <img align="right" src="https://www.vegamoontech.com/wp-content/uploads/2020/03/web-design.gif" height="270"> </img> -->
-## Hi, I'm [Zubair Bhuian!](https://bhuians-portfolio.herokuapp.com/) 👋
+## Hi, I'm [Zubair Bhuian!](https://tangerine-melba-a54993.netlify.app/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubairbhuian&label=Views&color=blue&style=plastic" alt="zubairbhuian" /> </p>
 
