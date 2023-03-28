@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubairbhuian&label=Views&color=blue&style=plastic" alt="zubairbhuian" /> </p>
 
 <h4 align="left">
-    I'm a full stack developer from Bangladesh, having 2+ years of cross-platform app  and 4+ years of web application development experience . I have absolute knowledge of Flutter,Dart, HTML, CSS, bootstrap 5, tailwind CSS, React, jquery, JavaScript, Nodejs, express js, and Figma. I have broad experience in using Scss<br>
+    I'm a full stack developer from Bangladesh, having 2+ years of cross-platform app  and 4+ years of web application development experience . I have absolute knowledge of Flutter,Dart, HTML, CSS, bootstrap 5, tailwind CSS, React, jquery, JavaScript, Nodejs, express js, wordpress, and Figma. I have broad experience in using Scss<br>
     ➮ I prefer MVC or MVP, for the folder & file pattern. <br>
     ➮ In addition to that, I use Provider, GetX, or BLoC for app state management. <br>
     ➮ Whereas for the back-end services, I completely rely on RESTful API, Firebase, and Parseplatform.  <br>
